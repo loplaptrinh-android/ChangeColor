@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChangeColor</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="radioRed">RED</string>
+    <string name="radioGreen">GREEN</string>
+    <string name="radioBlue">BLUE</string>
+</resources>
